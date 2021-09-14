@@ -41,4 +41,4 @@ Components:
 
 - Cart: Contains the list of items & their details.
 - Header: Header of the page
-- ProductS: Contains the product item & it's details.
+- Products: Contains the product item & it's details.
