@@ -25,4 +25,20 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 ## Project hierarchy
 
-###
+Root folder:
+
+- Contains project initialization files, .gitignore, src folder & .json folder for dependencies.
+
+Src folder:
+
+- Contains files & scripts that make up the app such as index.html, styles.scss, main.ts.
+
+App folder:
+
+- Contains all the components & shared services of the app.
+
+Components:
+
+- Cart: Contains the list of items & their details.
+- Header: Header of the page
+- ProductS: Contains the product item & it's details.
